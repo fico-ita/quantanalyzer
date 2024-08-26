@@ -1,0 +1,7 @@
+{
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.tabCompletion": "on",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+}

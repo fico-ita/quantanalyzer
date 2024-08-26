@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "quantanalyzer"
+version = "0.1.0"
+description = "Framework for analysis of student's portfolio at FICO"
+authors = ["Vitor Curtis <curtis@ita.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+
+[tool.poetry.group.dev.dependencies]
+poetry = "^1.8.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
